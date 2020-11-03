@@ -23,7 +23,7 @@ url: "https://hydroforge2.github.io" # the base hostname & protocol for your sit
 excerpt_separator: "<!--more-->"
 
 #Use statically.io to serve images
-cdnurl: "https://cdn.statically.io/img/hydroforge.github.io"
+cdnurl: "https://cdn.statically.io/img/hydroforge2.github.io"
 statically: 'yes'
 
 
