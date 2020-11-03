@@ -43,15 +43,15 @@ favicon: https://cdn.statically.io/favicons/jekyllrb.com
 navbar-logo: jorigamy-logo.svg
 
 author :
-  name : Antonio Trento
-  email : jorigamy@gmail.com
-  github : jorigamy/jorigamy.github.io
-  twitter : jorigamy
-  facebook: lantoniotrento
-  linkedin: antoniotrento
-  instagram: lantoniotrento
-  pinterest: antoniotrento
-  google: https://plus.google.com/u/0/b/114870349902392641766/105909498949786982602
+  name : Max Fefer
+  email : hydroforgerpg@gmail.com
+  github : 
+  twitter : hydroforge
+  facebook: 
+  linkedin: maxfefer
+  instagram: 
+  pinterest: 
+  google: 
   feedburner :
 
 google :
@@ -72,21 +72,18 @@ disqus :
 social:
   name: lantoniotrento
   links:
-    - https://twitter.com/jorigamy
-    - https://www.facebook.com/lantoniotrento
+    - https://twitter.com/hydroforge
+    - https://www.hydroforge.itch.io
     - https://www.linkedin.com/in/antoniotrento
-    - https://plus.google.com/u/0/b/114870349902392641766/105909498949786982602
-    - https://github.com/jorigamy/jorigamy.github.io
-    - https://keybase.io/antoniotrento
 twitter:
-  username: jorigamy
+  username: hydroforge
 
 facebook:
- app_id: 509727322725898 #the app id from https://developers.facebook.com/
- admins: 1010094929028825 #the page ID from https://www.facebook.com/pg/lantoniotrento (page-link), left click about scroll down and find 'Page ID'
- publisher: 1010094929028825 #the page ID from https://www.facebook.com/pg/lantoniotrento (page-link), left click about scroll down and find 'Page ID'
+ app_id:  #the app id from https://developers.facebook.com/
+ admins:  #the page ID from https://www.facebook.com/pg/lantoniotrento (page-link), left click about scroll down and find 'Page ID'
+ publisher:  #the page ID from https://www.facebook.com/pg/lantoniotrento (page-link), left click about scroll down and find 'Page ID'
 
-mailchimp: https://github.us8.list-manage.com/subscribe/post?u=a36bd3e356847dab838227fce&amp;id=bb4fd5f540 # the link of the embed signup form generated from mailchimp into the html code of the embed form
+mailchimp: https://chimpstatic.com/mcjs-connected/js/users/5ffd7626c52abd0c77e14ea50/2556e5e4789152f3b4758d724.js # the link of the embed signup form generated from mailchimp into the html code of the embed form
 
 addthis: //s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5a5ba11b28ce5032
 
@@ -134,15 +131,15 @@ collections:
 
 # Social settings
 500px_url:
-facebook_url: https://facebook.com/lantoniotrento
+facebook_url: 
 github_url:
 gitlab_url:
-googleplus_url: https://plus.google.com/u/0/b/114870349902392641766/105909498949786982602
-instagram_url: https://instagram.com/lantoniotrento
-linkedin_url: https://linkedin.com/in/antoniotrento
-pinterest_url: https://pinterest.com/antoniotrento
+googleplus_url: 
+instagram_url: 
+linkedin_url: https://linkedin.com/in/maxfefer
+pinterest_url: 
 slack_url:
-twitter_url: https://twitter.com/lantoniotrento
+twitter_url: https://twitter.com/hydroforge
 
 
 
