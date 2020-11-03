@@ -19,7 +19,7 @@ email: hydroforgerpg@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   MOOOO - Jorigamy is a porting of <a href="https://designrevision.com/download/shards" rel="nofollow">Shards UI toolkit</a> a bootstrap4 starter template intalled for Jekyll static website generator.
 baseurl: "" # the subpath of your site and 7, e.g. baseurl: "blog/"
-url: "https://hydroforge.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hydroforge2.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 excerpt_separator: "<!--more-->"
 
 #Use statically.io to serve images
